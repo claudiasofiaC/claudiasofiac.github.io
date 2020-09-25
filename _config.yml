@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 lang: en-US
 title: Claudia Chajon
-email:
+email: claudia.chajon@gmail.com
 description: Data Science Portfolio
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -23,7 +23,7 @@ author:
   name: Claudia Chajon
   twitter:
   picture:
-twitter_username:
+twitter_username: ChipChajon
 github_username: claudiasofiaC
 logo: "/assets/images/logocrop copy.png"
 search: # true, false (default)
@@ -43,8 +43,8 @@ plugins: # previsously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
-feed:
-  path: atom.xml
+#feed:
+#  path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10

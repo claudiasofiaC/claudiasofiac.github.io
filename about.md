@@ -16,4 +16,4 @@ allows a data scientist different methods and tools in order to tell a story usi
 
 
 
-![pic of me](assets/images/plants copy.png) {
+![pic of me](assets/images/plants copy.png) {: .align-center}

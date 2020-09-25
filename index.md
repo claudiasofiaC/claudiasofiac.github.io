@@ -15,6 +15,9 @@ actions:
   - label: "Twitter"
     icon: twitter
     url: "https://twitter.com/ChipChajon"
+  - label: "Email"
+    icon: email
+    url: "https://twitter.com/ChipChajon"
   
 ---
 
