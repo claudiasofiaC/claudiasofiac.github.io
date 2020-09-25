@@ -13,7 +13,8 @@ apartment, learning German, rowing, fiber art, cult films and baking.
 
 I love films and storytelling, I am passionate about how data visualization 
 allows a data scientist different methods and tools in order to tell a story using data.
+{: .align-center}
 
 
 
-![pic of me](assets/images/plants copy.png) {: .align-center}
+![pic of me](assets/images/plants copy.png){: .align-center}
