@@ -1,11 +1,20 @@
 ---
 layout: home
-alt_title: "Into Big Data and Machine Learning"
+alt_title: "Welcome to my  Data Science portfolio 
+"
+sub_title: "Big Data and Machine Learning"
 image: /assets/images/neonlogo copy.png
 
+actions:
+  - label: "Github"
+    icon: github
+    url: "https://github.com/claudiasofiaC"
+  - label: "LinkedIn"
+    icon: linkedin
+    url: "https://www.linkedin.com/in/claudia-chajon/"
+---
 ---
 
 
-Welcome to my  Data Science portfolio 
 
 
