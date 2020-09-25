@@ -3,6 +3,9 @@ title: "About"
 layout: about
 ---
 
+![logo](assets/images/logocrop copy.png){: .align-center}
+
+
 Hi, I am a Junior Data Scientist, I recently completed my studies at Lambda School. The experience at Lambda School has 
 been both incredibly tough and equally as rewarding.
 
