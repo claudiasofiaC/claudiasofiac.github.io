@@ -22,10 +22,10 @@ url: # the base hostname & protocol for your site e.g. "https://mmistakes.github
 author:
   name: Claudia Chajon
   twitter:
-  picture: "assets/images/dead copy.png"
+  picture: "assets/images/logocrop copy.png"
 twitter_username: ChipChajon
 github_username: claudiasofiaC
-logo: "/assets/images/logocrop copy.png"
+logo: "/assets/images/dead copy.png"
 search: # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
