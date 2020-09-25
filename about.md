@@ -3,7 +3,8 @@ title: "About"
 layout: about
 ---
 
-![logo](assets/images/brush_logo.png){: .align-center}
+![logo](assets/images/brush_logo.png){: .align-left}
+![pic of me](assets/images/prof_pic2 copy.png){: .align-right}
 
 
 Hi, I am a Junior Data Scientist, I recently completed my studies at Lambda School. The experience at Lambda School has 
@@ -15,9 +16,7 @@ quite a bit. I have a wide range of interests that include but are not limited t
 apartment, learning German, rowing, fiber art, cult films and baking.
 
 I love films and storytelling, I am passionate about how data visualization 
-allows a data scientist different methods and tools in order to tell a story using data.
-{: .align-center}
+allows a data scientist different methods and tools in order to tell a story using data.{: .align-center}
 
 
 
-![pic of me](assets/images/prof_pic.png){: .align-center}
