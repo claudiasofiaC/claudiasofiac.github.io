@@ -20,11 +20,11 @@ description: Data Science Portfolio
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name:
+  name: Claudia Chajon
   twitter:
   picture:
 twitter_username:
-github_username:
+github_username: claudiasofiaC
 logo: "/assets/images/logocrop copy.png"
 search: # true, false (default)
 search_full_content: false # true, false (default)
