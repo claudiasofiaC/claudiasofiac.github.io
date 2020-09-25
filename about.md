@@ -3,7 +3,7 @@ title: "About"
 layout: about
 ---
 
-![logo](assets/images/logocrop copy.png){: .align-center}
+![logo](assets/images/brush_logo.png){: .align-center}
 
 
 Hi, I am a Junior Data Scientist, I recently completed my studies at Lambda School. The experience at Lambda School has 
@@ -20,4 +20,4 @@ allows a data scientist different methods and tools in order to tell a story usi
 
 
 
-![pic of me](assets/images/plants copy.png){: .align-center}
+![pic of me](assets/images/prof_pic.png){: .align-center}

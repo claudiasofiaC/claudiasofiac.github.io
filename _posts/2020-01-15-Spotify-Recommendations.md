@@ -17,3 +17,4 @@ Songs were recommended based on how alike they were based on selected features.
 - speechiness	
 - valence
 
+[View Code on my Github]("https://github.com/claudiasofiaC/spotify_nn")
