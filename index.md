@@ -5,6 +5,9 @@ alt_title: "Welcome to my  Data Science portfolio
 sub_title: "Big Data and Machine Learning"
 image: /assets/images/neonlogo copy.png
 
+
+image: /assets/images/dead copy.png
+
 actions:
   - label: "Github"
     icon: github

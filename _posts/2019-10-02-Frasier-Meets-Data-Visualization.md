@@ -1,5 +1,7 @@
 Frasier meets Data Visualization
 
+![niles](/assets/images/n_f copy.jpg){: .align-left}
+
 Data visualization project which delves into the script of the 90's sitcom Frasier. Some lovely person on kaggle 
 uploaded the entire show's script and I jumped at the chance to implement my newly learned data analysis methods. 
 You can read more about this project in my 
