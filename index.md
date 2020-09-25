@@ -6,7 +6,7 @@ sub_title: "Big Data and Machine Learning"
 image: /assets/images/neonlogo copy.png
 
 
-image: /assets/images/dead copy.png
+# image: /assets/images/dead copy.png
 
 actions:
   - label: "Github"
