@@ -3,7 +3,7 @@ layout: home
 alt_title: "Welcome to my  Data Science portfolio 
 "
 sub_title: "Big Data and Machine Learning"
-image: /assets/images/neon_banner copy.png
+image: /assets/images/i_think copy.png
 
 
 # image: /assets/images/dead copy.png
