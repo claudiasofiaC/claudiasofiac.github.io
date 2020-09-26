@@ -16,6 +16,6 @@ apartment, learning German, rowing, fiber art, cult films and baking.
 
 
 
-![pic of me](assets/images/prof_pic2 copy.png){: .align-center}
+![pic of me](assets/images/prof_pic2 copy.png)
 
 
