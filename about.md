@@ -14,8 +14,6 @@ passion for knowledge have led me down several rabbit holes of study. Which is a
 quite a bit. I have a wide range of interests that include but are not limited to: crochet, housing 50+ plants in my 
 apartment, learning German, rowing, fiber art, cult films and baking.
 
-I love films and storytelling, I am passionate about how data visualization 
-allows a data scientist different methods and tools in order to tell a story using data.{: .align-center}
 
 
 ![pic of me](assets/images/prof_pic2 copy.png){: .align-center}
