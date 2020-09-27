@@ -82,4 +82,11 @@ defaults:
       type: posts
     values:
       layout: post
-      read_time: true
+      read_time: false
+  # _recipes
+  - scope:
+      path: "resume.md"
+      type: cv
+    values:
+      layout: post
+      read_time: false

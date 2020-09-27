@@ -3,8 +3,7 @@ title: "About"
 layout: about
 ---
 
-![pic of me](assets/images/prof_pic_small.png){: .align-left}
-
+![logo](assets/images/brush_logo.png)
 
 Hi, I am a Junior Data Scientist, I recently completed my studies at Lambda School. The experience at Lambda School has 
 been both incredibly tough and equally as rewarding.
@@ -15,7 +14,7 @@ quite a bit. I have a wide range of interests that include but are not limited t
 apartment, learning German, rowing, fiber art, cult films and baking.
 
 
-![logo](assets/images/brush_logo.png)
+![pic of me](assets/images/prof_pic2 copy.png)
 
 
 

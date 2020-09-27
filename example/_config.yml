@@ -74,17 +74,17 @@ collections:
 
 # Front Matter Defaults
 defaults:
-  # _posts
+  _posts
   - scope:
       path: "_posts"
       type: posts
     values:
       layout: post
       read_time: true
-  # _recipes
-#  - scope:
-#      path: "_recipes"
-#      type: recipes
-#    values:
-#      layout: post
-#      read_time: true
+   _recipes
+  - scope:
+      path: "_recipes"
+      type: recipes
+    values:
+      layout: post
+      read_time: true
