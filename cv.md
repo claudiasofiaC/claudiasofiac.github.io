@@ -7,6 +7,3 @@ actions:
     url: "https://drive.google.com/file/d/1EpDCBS7TnRo7LISwkbYqTuRWovKaPK2K/view"
 ---
 
-hey there
-
-put stuff here

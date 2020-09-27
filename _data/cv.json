@@ -1,12 +1,9 @@
 {
   "basics": {
-    "name": "",
-    "label": "Into Big Data and Machine Learning",
-    "picture": "",
+    "name": "Into Big Data and Machine Learning",
+    "label": "Learning never ends",
+    "picture": "assets/images/dead copy.png",
     "email": "claudia.chajon@gmail.com",
-    "phone": "",
-    "website": "https://towlettepettetuc.ci",
-    "summary": "Learning never ends",
     "location": {
       "city": "New York City",
       "countryCode": "US",
@@ -29,8 +26,8 @@
     {
       "institution": "Lambda School",
       "area": "Data Science and Machine Learning",
-      "startDate": "2019-10-01",
-      "endDate": "2020-06-01"
+      "startDate": "October 2019",
+      "endDate": "June 2020"
     }
   ],
   "skills": [
@@ -54,8 +51,16 @@
   ],
   "languages": [
     {
-      "language": "Nonsense",
+      "language": "English",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Conversational"
+    },
+    {
+      "language": "German",
+      "fluency": "Conversational"
     }
   ],
   "interests": [
@@ -67,10 +72,4 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": " Nannette Nananacci",
-      "reference": "It is my pleasure to recommend Dugan Nash, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
-  ]
 }
