@@ -6,7 +6,7 @@ actions:
     icon: pdf
     url: "https://github.com/claudiasofiaC/claudiasofiaC.github.io/blob/master/assets/images/resume_copy.pdf"
 ---
-![resume](/assets/images/resume_copy.pdf)
+[resume](/assets/images/resume_copy.pdf)
 
 Hi, I am a Junior Data Scientist, I recently completed my studies at Lambda School. The experience at Lambda School has 
 been both incredibly tough and equally as rewarding.
