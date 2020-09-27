@@ -85,7 +85,7 @@ defaults:
       read_time: false
   # _recipes
   - scope:
-      path: "resume.md"
+      path: "cv.md"
       type: cv
     values:
       layout: post
