@@ -1,9 +1,12 @@
 ---
 title: "About"
 layout: about
+actions:
+  - label: "Download Resume as PDF"
+    icon: pdf
+    url: "https://github.com/claudiasofiaC/claudiasofiaC.github.io/blob/master/assets/images/resume_copy.pdf"
 ---
-
-![logo](assets/images/brush_logo.png)
+![resume](/assets/images/resume_copy.pdf)
 
 Hi, I am a Junior Data Scientist, I recently completed my studies at Lambda School. The experience at Lambda School has 
 been both incredibly tough and equally as rewarding.
@@ -15,6 +18,7 @@ apartment, learning German, rowing, fiber art, cult films and baking.
 
 
 ![pic of me](assets/images/prof_pic2 copy.png)
+![logo](assets/images/brush_logo.png)
 
 
 
