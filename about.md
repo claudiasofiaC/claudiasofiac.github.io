@@ -3,7 +3,7 @@ title: "About"
 layout: about
 ---
 
-![pic of me](assets/images/prof_pic2 copy.png){: .align-left}
+![pic of me](assets/images/prof_pic_small.png){: .align-left}
 
 
 Hi, I am a Junior Data Scientist, I recently completed my studies at Lambda School. The experience at Lambda School has 
