@@ -1,12 +1,8 @@
 ---
 title: "About"
 layout: about
-actions:
-  - label: "Download Resume as PDF"
-    icon: pdf
-    path: (/assets/images/resume_copy.pdf)
+
 ---
-[resume](/assets/images/resume_copy.pdf)
 
 Hi, I am a Junior Data Scientist, I recently completed my studies at Lambda School. The experience at Lambda School has 
 been both incredibly tough and equally as rewarding.
