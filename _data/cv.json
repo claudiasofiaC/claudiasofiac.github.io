@@ -4,12 +4,12 @@
     "label": "A lot to look at",
     "picture": "/assets/images/dead copy.png",
     "email": "claudia.chajon@gmail.com",
-    "phone": # "(555) 555-5555",
-    "website": # "https://towlettepettetuc.ci",
+    "phone":  "",
+    "website":  "",
     "summary": "I dabble in data",
     "location": {
-      "address": # "123 Sesame Street",
-      "postalCode": # "CA 94115",
+      "address": ,
+      "postalCode": ,
       "city": "New York City",
       "countryCode": "US",
       "region": "New York"
