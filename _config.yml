@@ -76,9 +76,9 @@ exclude:
 
 # Front Matter Defaults
 defaults:
-  # _projects
+  # _posts
   - scope:
-      path: "_projects"
+      path: "_posts"
       type: posts
     values:
       layout: post
