@@ -96,9 +96,9 @@ collections:
 
 # Front Matter Defaults
 defaults:
-  # _posts
+  # _projects
   - scope:
-      path: "_posts"
+      path: "_projects"
       type: posts
     values:
       layout: post
