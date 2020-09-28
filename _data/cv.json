@@ -32,43 +32,44 @@
   ],
   "skills": [
     {
-      "name": "Audio Juggling",
-      "level": "Master",
-      "keywords": [
-        "Ointment",
-        "Voltor",
-        "Millipedes"
-      ]
+      "name": "Data Cleaning"
     },
     {
-      "name": "Bruschotti",
-      "level": "Satisfactory",
-      "keywords": [
-        "Snow camp",
-        "Owl"
-      ]
+      "name": "Data Wrangling"
+    },
+    {
+      "name": "SQL"
+    },
+    {
+      "name": "Neural Networks"
+    },
+    {
+      "name": "Natural Language Processing"
+    },
+    {
+      "name": "Python"
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Proficient"
     },
     {
       "language": "Spanish",
-      "fluency": "Conversational"
+      "fluency": "Advanced"
     },
     {
       "language": "German",
-      "fluency": "Conversational"
+      "fluency": "Intermediate"
     }
   ],
   "interests": [
     {
       "name": "The Information Superhighway",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Crochet",
+        "Plants"
       ]
     }
   ],
