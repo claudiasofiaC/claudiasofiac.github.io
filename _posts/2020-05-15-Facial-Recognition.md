@@ -10,4 +10,4 @@ the algorithm to detect a face.
 {: .align-center}
 
 
-[View Code on my Github]("https://github.com/claudiasofiaC/Facial_Recognition_Attendance")
+[View Code on my Github](https://github.com/claudiasofiaC/Facial_Recognition_Attendance)

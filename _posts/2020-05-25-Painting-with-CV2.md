@@ -4,4 +4,4 @@ Object and color detection project using OpenCV and my webcam. Using Object Dete
 to "paint" as the tracker marks the object on screen.
  
 
-[View Code on my Github]("https://github.com/claudiasofiaC/Paint_with_OpenCV")
+[View Code on my Github](https://github.com/claudiasofiaC/Paint_with_OpenCV)
